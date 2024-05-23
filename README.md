@@ -1,6 +1,7 @@
 # Review-Ananlysis
 Once, the system ensures that the user is a customer, it asks for food review in text format. The customer must select the food items which he has taken from the restaurant and then give his review on selected foods. When he clicks on submit button, the text review is treated under the ML algorithm to predict whether it is a positive review or negative review.
 
+# Code
 from tkinter import *
 from tkinter import messagebox
 from tkinter import filedialog
